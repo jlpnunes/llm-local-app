@@ -31,7 +31,7 @@ Prepare your environment and project structure with these steps:
 
 1. **Clone the Repository** (or create manually):
    ```bash
-   git clone https://github.com/yourusername/llm-local-app.git
+   git clone https://github.com/jlpnunes/llm-local-app.git
    cd llm-local-app
    ```
 
